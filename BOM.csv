@@ -9,9 +9,9 @@ Encoder Knob,NeoMacro.in,1,85,0.96,Metal/plastic knob
 Arduino Pro Micro (ATmega32U4),Amazon.in,1,649,7.35,Controller supporting QMK
 USB Connector (micro/USB-B),Amazon.in / local,1,50,0.57,Solder mount USB port
 Voltage Regulator (AMS1117),Amazon.in / local,1,100,1.13,Power regulation on PCB
-Decoupling / Filter Capacitors,Amazon.in / local,1 set,50,0.57,Ceramic / electrolytic as shown
+Decoupling / Filter Capacitors,Amazon.in / local,1 set,50,0.57,Ceramic / electrolytic
 SMD Resistors & Misc SMD parts,Amazon.in / local,Assorted,50,0.57,Small pack for needed values
 Pin Headers / Connectors,Amazon.in / local,Assorted,100,1.13,For programming / debugging
-Custom PCB (JLCPCB) - 5 pcs,JLCPCB,5 pcs,1510,17.1,JLCPCB production cost (from screenshot: $17.10)
-Shipping (PCBs) - JLCPCB,JLCPCB,1,2289,25.92,JLCPCB estimated shipping (from screenshot: $25.94)
+Custom PCB (JLCPCB) - 5 pcs,JLCPCB,5 pcs,1510,17.1,JLCPCB production cost 
+Shipping (PCBs) - JLCPCB,JLCPCB,1,2289,25.92,JLCPCB estimated shipping 
 Total Approximate Cost,-,-,8983,101.73,Updated with JLCPCB PCB & shipping
