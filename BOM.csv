@@ -1,0 +1,17 @@
+Component,Source,Quantity,Total Cost (INR),Total Cost (USD approx),Notes
+Blue Mechanical Switches,cosmicbyte.in,2 packs (≈64 switches),1200,13.59,"48 keys + spare, Outemu type"
+PBT Dye-sublimated Keycaps (Black),NeoMacro.in,1 set,1500,16.99,Full keycap set
+Hot-swap Sockets (Kailh MX Hotswap Socket v1),NeoMacro.in,6 packs (≈60 sockets),660,7.47,Optional — only if using hot-swap
+WS2812B RGB LEDs (individual),Amazon.in,48,480,5.44,"One LED per key, individual package"
+SMD Diodes (1N4148),Amazon.in,48,90,1.02,One diode per switch
+Rotary Encoder (EC11 type),Amazon.in,1,170,1.93,For volume/knob function
+Encoder Knob,NeoMacro.in,1,85,0.96,Metal/plastic knob
+Arduino Pro Micro (ATmega32U4),Amazon.in,1,649,7.35,Controller supporting QMK
+USB Connector (micro/USB-B),Amazon.in / local,1,50,0.57,Solder mount USB port
+Voltage Regulator (AMS1117),Amazon.in / local,1,100,1.13,Power regulation on PCB
+Decoupling / Filter Capacitors,Amazon.in / local,1 set,50,0.57,Ceramic / electrolytic as shown
+SMD Resistors & Misc SMD parts,Amazon.in / local,Assorted,50,0.57,Small pack for needed values
+Pin Headers / Connectors,Amazon.in / local,Assorted,100,1.13,For programming / debugging
+Custom PCB (JLCPCB) - 5 pcs,JLCPCB,5 pcs,1510,17.1,JLCPCB production cost (from screenshot: $17.10)
+Shipping (PCBs) - JLCPCB,JLCPCB,1,2289,25.92,JLCPCB estimated shipping (from screenshot: $25.94)
+Total Approximate Cost,-,-,8983,101.73,Updated with JLCPCB PCB & shipping
